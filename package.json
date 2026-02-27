@@ -1,6 +1,6 @@
 {
   "name": "sanitize-url-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive, zero-dependency URL sanitization library covering all known URL-based attack vectors including XSS, SSRF, open redirect, credential injection, homograph attacks, and more.",
   "author": "NiUnit",
   "license": "Apache-2.0",
