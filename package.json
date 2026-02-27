@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "type": "module",
   "main": "./dist/index.cjs",
-  "module": "./dist/index.js",s
+  "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
@@ -61,10 +61,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/sanitize-url-plus.git"
+    "url": "https://github.com/nik750/sanitize-url-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/your-org/sanitize-url-plus/issues"
+    "url": "https://github.com/nik750/sanitize-url-plus/issues"
   },
-  "homepage": "https://github.com/your-org/sanitize-url-plus#readme"
+  "homepage": "https://github.com/nik750/sanitize-url-plus#readme"
 }
